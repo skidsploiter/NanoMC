@@ -8,7 +8,9 @@
 > **Hey!**  
 > NanoMC is **experimental** and not meant for long-term/main usage.  
 > It was built for convenience — like running Minecraft from a USB stick, using school computers, or just keeping a lightweight version handy.  
-> Educational purposes only. Please use responsibly.  
+> Educational purposes only. Please use responsibly.
+>
+> NOT maintained anymore
 
 ---
 
